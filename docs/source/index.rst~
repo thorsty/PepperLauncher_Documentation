@@ -1,0 +1,21 @@
+Pepper Launcher Documentation
+=========================================================
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
+
+   About Pepper Launcher
+   Installation
+   How To Use
+   FAQ
+   Tips & Tricks
+   Troubleshooting
+   Contact Us
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
