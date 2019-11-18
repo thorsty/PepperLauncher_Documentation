@@ -1,4 +1,4 @@
-Getting Started
+Chapter 1: Getting Started
 =========================================================
 
 .. toctree::
@@ -6,77 +6,54 @@ Getting Started
 
    Getting Started
    
-Installing the Launcher
+--------------------------------------------
+
+1.1 System Requirements
 ^^^^^^^^^^^^^^^^^^^^^^^^
+	- Windows 10
+	- 2 GB of system memory
+	- 100 MB of available system storage
+   
+1.2 Introduction to the Pepper Arena Manager Portal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Pepper Arena Manager (PAM) Portal is where you'll be managing most of the Pepper Launcher from, including downloading the launcher and customizing it with the games you wish to have available.
 
-To install the Pepper Launcher, all you need to do is download the Pepper Launcher application from the `Client Portal <https://client.pepper.gg>`_ on the computer you want to and then run the application to set it up.
+To access the Pepper Arena Manager portal, visit `client.pepper.gg <https://client.pepper.gg>`_ and log in using your Arena Manager credentials that were provided to you in you sales confirmation email.
 
-Logging into the Launcher
-^^^^^^^^^^^^^^^^^^^^^^^^
-When you install the Pepper Launcher on a new computer for the first time, you will be prompted to log in to the launcher using your Client Portal credentials.
-
-After that, you will never need to log in with your Client Portal credentials again.
+We'll go through the basics of the Pepper Arena Manager in the rest of this chapter.
 
 **Note:** *If you do not know your Client Portal credentials, they will be included in your set-up email. If you do not have access to that email, please contact your sales rep for assistance*
 
-Customizing the Launcher
-^^^^^^^^^^^^^^^^^^^^^^^^
-After you've installed the launcher, you'll want customize the launcher by adding the games and apps you'll want accessible through the `Client Portal <https://client.pepper.gg>`_.
+1.2.1 Tournaments *(Only available to [insert packages] users)*
+-----------------------------------------------------------------
+The **Tournaments** portal is where you can create, manage, and run tournaments for your arena.
 
-How to Add a Game
-------------------
-To add a game or app to the Pepper Launcher:
+For more information on the Tournament section, please refer to Chapter [x]: Tournaments
 
-	1. Log in to the  `Client Portal <https://client.pepper.gg>`_
-	2. Click on the **Games & Apps** tab
+1.2.2 Games and Apps
+-----------------------------------------------------------------
+The **Games and Apps** section is where you'll customize and manage the games and apps you want to have available within the Pepper Launcher. You can add, remove, enable, disable, and edit games and apps in this section.
 
-Adding a game/app in the Launcher Presets
-````````````````````````````````````````````
-	
-   #. Click on the **Games** section
-   #. Click on **Add New Game**
-   #. Search for the game(s) you want to add
-   #. Click on the game(s) you want to add
-   #. Click on **Select Games**
-   #. From the **Games & Apps** menu, find the game that you added and click **Edit**
-   #. Enter the **Executable Path**. :ref:`How do I find a game's Executable Path?`
-   #. Hit **Edit Game** to confirm the changes
-   #. Congratulations! You've added your game!
-    
-Adding a Game/App not in the Launcher Presets
-````````````````````````````````````````````
+Within this section, there are two tabs: **Games** and **Applications**
 
-	1. Click on the **Games** section
-	2. Click on **Add New Game**
-	3. From the **Add New Game** preset window, click **Add New Game** in the top right corner
-	4. Enter the name of the game
-	5. Enter the **Executable Path**. :ref:`How do I find a game's Executable Path?`
-	6. If you want to add an Image file, click **Upload** and find the image you want to upload (size recommendations need)
-	7. Select whether it is a game or an app
-	8. Hit **Add Game**
-	9. Congratulations! You've added a new game!
-    
-How do I find a game's Executable Path?
-````````````````````````````````````````````
+For more information on the Games and Apps section, view Chapter 3: Customizing the Launcher.
 
-	To find a game's or application's Executable Path, follow the below steps:
-	
-		1. Create and/or find a shortcut for the game on your computer
-		2. Right Click on the game and click **Properties**
-		3. If it shows a **URL** field, you'll just need to copy the URL
-		4. If it shows a **Target** field, you'll need to copy the Target path *without* the quotes
-		
-How to Locally Lock/Unlock the Launcher
-----------------------------------------
+1.2.3 Terminals
+-----------------------------------------------------------------
+The **Terminals** section is where you'll be able to remotely manage your computers using the Pepper Launcher.
 
-To lock/unlock the launcher locally, hit ``CTRL + Backtick (`)`` and enter your Arena Manager password. From there, you can unlock the launcher, update the launcher, or exit the launcher.
+Here, you'll be able to see the status of each computer, see who is logged in on each computer, play sounds, remotely lock and unlock the Pepper Launcher, and remotely reboot computers.
 
-How to Remotely Lock/Unlock the Launcher
-----------------------------------------
+1.2.4 Accounts **[NEED TO KNOW WHERE IT'LL BE MANAGED**
+-----------------------------------------------------------------
+In the **Accounts** section, you'll be able to view your Arena accounts, create new Arena accounts, edit Arena accounts, manage Arena session times, and more!
 
-To lock/unlock the launcher remotely, log in to the `Client Portal <https://client.pepper.gg>`_ and go to the **Terminals**. From there, find the terminal you wish to lock/unlock and click the corresponding icon.
+For more information on Accounts, please refer to Chapter [X]: Need Chapter
 
-How to Update the Launcher
-----------------------------------------
+1.2.5 Downloads
+-----------------------------------------------------------------
+In the **Downloads** section, you'll be able to download your available Pepper software, including the Pepper Launcher.
 
-To Pepper Launcher will automatically update if there is an update available when you first boot up the computer. If you need to manually update the launcher, hit ``CTRL + Backtick (`)`` and enter your Arena Manager password. From there, you can hit the **Update** button to update the launcher.
+1.2.6 Settings
+-----------------------------------------------------------------
+In the Settings section, you'll be able to manage the Arena Admin password (what you'll use to unlock the Pepper Launcher locally on computers) and your Arena logo **NEEDS RECOMMENDED DIMENSIONS**.

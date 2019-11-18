@@ -1,18 +1,25 @@
 Pepper Launcher Documentation
 =========================================================
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Contents:
+Welcome to the documentation for Pepper Launcher! For help installing, setting up, running, and troubleshooting the launcher, check out the below pages!
 
-   About Pepper Launcher
-   Installation
-   How To Use
+Getting Started
+^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 4
+   
+   Getting Started
+   
+   
+Helpful Resources
+^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :maxdepth: 2
+
    FAQ
-   Tips & Tricks
-   Troubleshooting
    Contact Us
 
+   
 Indices and tables
 ==================
 

@@ -5,7 +5,7 @@ If you need to contact us, please contact us via any of the methods below and we
 
 Additional Help
 -----
-If you need help with an issue that is not listed in the documentation, please reach out to us on our Discord [NEEDS LINK] or by emailing us at support@pepper.gg
+If you need help with an issue that is not listed in the documentation, please reach out to us on our `Discord <https://discord.gg/M7Pu2uu>`_ or by emailing us at support@pepper.gg
 
 Sales & Product Inquries
 -------------------------
